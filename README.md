@@ -157,5 +157,3 @@ The tests were conducted in various conditions including:
 ## Future Scope
 
 **Smart phone application:** It can be implemented as a smart phone application, which can be installed on smart phones. The automobile driver can start the application after placing it at a position where the camera is focused on the driver.
-
-![Future Scope - Smartphone App](Images/6.jpg)
