@@ -134,7 +134,7 @@ Make sure you are using Python 3.12 and run:
 python -m pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
 ```
-## Testing and Results in Real-World Scenario
+## Testing and Results in Real-World Scenario.
 
 The tests were conducted in various conditions including:
 * Different lighting conditions.
